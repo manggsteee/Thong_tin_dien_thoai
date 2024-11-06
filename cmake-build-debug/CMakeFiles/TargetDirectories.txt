@@ -1,0 +1,3 @@
+C:/Users/honag/CLionProjects/Thong_tin_dien_thoai/cmake-build-debug/CMakeFiles/Thong_tin_dien_thoai.dir
+C:/Users/honag/CLionProjects/Thong_tin_dien_thoai/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/honag/CLionProjects/Thong_tin_dien_thoai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
